@@ -1,6 +1,4 @@
-import math
 from geom import Sphere
-from ray import Ray
 from vector import Vec3
 from camera import Camera
 from scene import Scene
